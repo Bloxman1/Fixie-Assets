@@ -1,0 +1,251 @@
+
+nolik1.0.png
+size: 2890,897
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball
+  rotate: false
+  xy: 2230, 536
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+battery
+  rotate: false
+  xy: 2133, 237
+  size: 86, 256
+  orig: 86, 256
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 915, 133
+  size: 235, 286
+  orig: 235, 286
+  offset: 0, 0
+  index: -1
+bolt
+  rotate: true
+  xy: 2230, 184
+  size: 350, 203
+  orig: 350, 203
+  offset: 0, 0
+  index: -1
+boot
+  rotate: false
+  xy: 2316, 5
+  size: 133, 124
+  orig: 133, 124
+  offset: 0, 0
+  index: -1
+cool
+  rotate: true
+  xy: 1203, 158
+  size: 210, 190
+  orig: 210, 190
+  offset: 0, 0
+  index: -1
+electro
+  rotate: false
+  xy: 2449, 414
+  size: 415, 481
+  orig: 415, 481
+  offset: 0, 0
+  index: -1
+energy
+  rotate: false
+  xy: 2181, 187
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+eyebrow
+  rotate: false
+  xy: 2049, 185
+  size: 82, 41
+  orig: 82, 41
+  offset: 0, 0
+  index: -1
+eyelid
+  rotate: false
+  xy: 2049, 20
+  size: 265, 162
+  orig: 265, 162
+  offset: 0, 0
+  index: -1
+eyelight
+  rotate: false
+  xy: 2133, 189
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+finger
+  rotate: true
+  xy: 2811, 2
+  size: 127, 63
+  orig: 127, 63
+  offset: 0, 0
+  index: -1
+finger_2
+  rotate: true
+  xy: 915, 54
+  size: 77, 94
+  orig: 77, 94
+  offset: 0, 0
+  index: -1
+finger_4
+  rotate: true
+  xy: 1395, 223
+  size: 145, 89
+  orig: 145, 89
+  offset: 0, 0
+  index: -1
+finger_5
+  rotate: true
+  xy: 1687, 88
+  size: 122, 81
+  orig: 122, 81
+  offset: 0, 0
+  index: -1
+fire
+  rotate: true
+  xy: 2694, 29
+  size: 100, 115
+  orig: 100, 115
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 2435, 131
+  size: 446, 281
+  orig: 446, 281
+  offset: 0, 0
+  index: -1
+haier
+  rotate: true
+  xy: 2, 2
+  size: 893, 911
+  orig: 893, 911
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 1203, 19
+  size: 137, 161
+  orig: 137, 161
+  offset: 0, 0
+  index: -1
+hand_2
+  rotate: true
+  xy: 1395, 21
+  size: 189, 202
+  orig: 189, 202
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 915, 370
+  size: 604, 525
+  orig: 604, 525
+  offset: 0, 0
+  index: -1
+laser_2
+  rotate: true
+  xy: 2866, 851
+  size: 44, 22
+  orig: 44, 22
+  offset: 0, 0
+  index: -1
+laserlight
+  rotate: false
+  xy: 1521, 212
+  size: 281, 281
+  orig: 281, 281
+  offset: 0, 0
+  index: -1
+left_eye
+  rotate: true
+  xy: 1804, 228
+  size: 265, 249
+  orig: 265, 249
+  offset: 0, 0
+  index: -1
+leg
+  rotate: true
+  xy: 1599, 35
+  size: 40, 128
+  orig: 40, 128
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 2572, 22
+  size: 120, 107
+  orig: 120, 107
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 2055, 384
+  size: 109, 76
+  orig: 109, 76
+  offset: 0, 0
+  index: -1
+mouth_2
+  rotate: true
+  xy: 2055, 309
+  size: 73, 72
+  orig: 73, 72
+  offset: 0, 0
+  index: -1
+mouth_3
+  rotate: false
+  xy: 2316, 139
+  size: 98, 43
+  orig: 98, 43
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 1599, 77
+  size: 133, 86
+  orig: 133, 86
+  offset: 0, 0
+  index: -1
+pupil_1
+  rotate: false
+  xy: 2451, 10
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+pupil_2
+  rotate: false
+  xy: 2055, 240
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+right_eye
+  rotate: true
+  xy: 1804, 6
+  size: 220, 243
+  orig: 220, 243
+  offset: 0, 0
+  index: -1
+skateboard_2
+  rotate: false
+  xy: 1521, 750
+  size: 926, 145
+  orig: 926, 145
+  offset: 0, 0
+  index: -1
+wrench
+  rotate: false
+  xy: 1521, 495
+  size: 707, 253
+  orig: 707, 253
+  offset: 0, 0
+  index: -1

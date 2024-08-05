@@ -1,0 +1,51 @@
+{
+	"m_BuildTextureStacks": [
+		
+	],
+	"m_CorrespondingSourceObject": { "m_FileID": 0, "m_PathID": 0 },
+	"m_CustomRenderQueue": -1,
+	"m_DisabledShaderPasses": [
+		
+	],
+	"m_DoubleSidedGI": false,
+	"m_EnableInstancingVariants": false,
+	"m_HideFlags": 0,
+	"m_InvalidKeywords": [
+		
+	],
+	"m_LightmapFlags": 4,
+	"m_Name": "simka1.0_Material",
+	"m_PrefabAsset": { "m_FileID": 0, "m_PathID": 0 },
+	"m_PrefabInstance": { "m_FileID": 0, "m_PathID": 0 },
+	"m_SavedProperties": {
+		"m_Colors": {
+			
+		},
+		"m_Floats": {
+			"_Cutoff": 0.1
+		},
+		"m_Ints": {
+			
+		},
+		"m_TexEnvs": {
+			"_MainTex": {
+				"m_Offset": {
+					"m_X": 0,
+					"m_Y": 0
+				},
+				"m_Scale": {
+					"m_X": 1,
+					"m_Y": 1
+				},
+				"m_Texture": { "m_FileID": 0, "m_PathID": 8342707051307170410 }
+			}
+		}
+	},
+	"m_Shader": { "m_FileID": 1, "m_PathID": -905636281508599772 },
+	"m_StringTagMap": {
+		
+	},
+	"m_ValidKeywords": [
+		
+	]
+}

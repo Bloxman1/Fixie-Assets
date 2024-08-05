@@ -1,0 +1,293 @@
+
+simka1.0.png
+size: 1653,1653
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Finger
+  rotate: false
+  xy: 1194, 9
+  size: 114, 57
+  orig: 114, 57
+  offset: 0, 0
+  index: -1
+Finger1
+  rotate: false
+  xy: 1278, 202
+  size: 129, 79
+  orig: 129, 79
+  offset: 0, 0
+  index: -1
+Finger2
+  rotate: true
+  xy: 1122, 94
+  size: 109, 72
+  orig: 109, 72
+  offset: 0, 0
+  index: -1
+Tear
+  rotate: true
+  xy: 1623, 1477
+  size: 51, 23
+  orig: 51, 23
+  offset: 0, 0
+  index: -1
+TearEyes
+  rotate: false
+  xy: 644, 40
+  size: 193, 113
+  orig: 193, 113
+  offset: 0, 0
+  index: -1
+battery
+  rotate: true
+  xy: 2, 11
+  size: 86, 256
+  orig: 86, 256
+  offset: 0, 0
+  index: -1
+board
+  rotate: true
+  xy: 1476, 725
+  size: 926, 145
+  orig: 926, 145
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1429, 143
+  size: 215, 292
+  orig: 215, 292
+  offset: 0, 0
+  index: -1
+boot
+  rotate: true
+  xy: 839, 13
+  size: 146, 109
+  orig: 146, 109
+  offset: 0, 0
+  index: -1
+bubble
+  rotate: true
+  xy: 958, 205
+  size: 238, 240
+  orig: 238, 240
+  offset: 0, 0
+  index: -1
+bubbles_detail
+  rotate: true
+  xy: 411, 11
+  size: 142, 231
+  orig: 142, 231
+  offset: 0, 0
+  index: -1
+bubbles_detail_2
+  rotate: false
+  xy: 1441, 437
+  size: 206, 286
+  orig: 206, 286
+  offset: 0, 0
+  index: -1
+bubbles_detail_3
+  rotate: true
+  xy: 285, 175
+  size: 205, 131
+  orig: 205, 131
+  offset: 0, 0
+  index: -1
+electro
+  rotate: false
+  xy: 2, 382
+  size: 415, 481
+  orig: 415, 481
+  offset: 0, 0
+  index: -1
+elipse1
+  rotate: false
+  xy: 787, 2
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+elipse2
+  rotate: false
+  xy: 1400, 74
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+elipse3
+  rotate: false
+  xy: 1200, 333
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 675, 204
+  size: 226, 281
+  orig: 226, 281
+  offset: 0, 0
+  index: -1
+eyebrow
+  rotate: true
+  xy: 1623, 1580
+  size: 71, 25
+  orig: 71, 25
+  offset: 0, 0
+  index: -1
+eyelid
+  rotate: true
+  xy: 1332, 544
+  size: 182, 107
+  orig: 182, 107
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 894, 1111
+  size: 580, 540
+  orig: 580, 540
+  offset: 0, 0
+  index: -1
+finger3
+  rotate: false
+  xy: 1122, 7
+  size: 70, 85
+  orig: 70, 85
+  offset: 0, 0
+  index: -1
+fire
+  rotate: true
+  xy: 1312, 283
+  size: 100, 115
+  orig: 100, 115
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 884, 445
+  size: 446, 281
+  orig: 446, 281
+  offset: 0, 0
+  index: -1
+haier_1
+  rotate: false
+  xy: 2, 865
+  size: 890, 786
+  orig: 890, 786
+  offset: 0, 0
+  index: -1
+haier_3
+  rotate: true
+  xy: 1332, 385
+  size: 157, 95
+  orig: 157, 95
+  offset: 0, 0
+  index: -1
+haier_4
+  rotate: false
+  xy: 894, 728
+  size: 556, 381
+  orig: 556, 381
+  offset: 0, 0
+  index: -1
+haier_5
+  rotate: false
+  xy: 675, 432
+  size: 207, 431
+  orig: 207, 431
+  offset: 0, 0
+  index: -1
+hand_1
+  rotate: false
+  xy: 285, 25
+  size: 124, 148
+  orig: 124, 148
+  offset: 0, 0
+  index: -1
+hand_2
+  rotate: false
+  xy: 950, 20
+  size: 170, 182
+  orig: 170, 182
+  offset: 0, 0
+  index: -1
+laser_2
+  rotate: true
+  xy: 1623, 1530
+  size: 48, 26
+  orig: 48, 26
+  offset: 0, 0
+  index: -1
+laserlight
+  rotate: false
+  xy: 2, 99
+  size: 281, 281
+  orig: 281, 281
+  offset: 0, 0
+  index: -1
+leg
+  rotate: true
+  xy: 675, 161
+  size: 41, 180
+  orig: 41, 180
+  offset: 0, 0
+  index: -1
+logo
+  rotate: true
+  xy: 1196, 68
+  size: 110, 98
+  orig: 110, 98
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 1296, 111
+  size: 102, 89
+  orig: 102, 89
+  offset: 0, 0
+  index: -1
+mouth_horror
+  rotate: true
+  xy: 1200, 180
+  size: 151, 76
+  orig: 151, 76
+  offset: 0, 0
+  index: -1
+mouth_sad
+  rotate: false
+  xy: 644, 4
+  size: 141, 34
+  orig: 141, 34
+  offset: 0, 0
+  index: -1
+mouth_sad_2
+  rotate: false
+  xy: 1381, 16
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 1310, 8
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 1310, 60
+  size: 69, 49
+  orig: 69, 49
+  offset: 0, 0
+  index: -1
+wrench
+  rotate: true
+  xy: 419, 155
+  size: 708, 254
+  orig: 708, 254
+  offset: 0, 0
+  index: -1

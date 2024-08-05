@@ -1,0 +1,164 @@
+{
+	"m_CorrespondingSourceObject": { "m_FileID": 0, "m_PathID": 0 },
+	"m_EditorClassIdentifier": "",
+	"m_EditorHideFlags": 0,
+	"m_Enabled": 1,
+	"m_GameObject": { "m_FileID": 0, "m_PathID": 0 },
+	"m_HideFlags": 0,
+	"m_Name": "Nolik",
+	"m_PrefabAsset": { "m_FileID": 0, "m_PathID": 0 },
+	"m_PrefabInstance": { "m_FileID": 0, "m_PathID": 0 },
+	"m_Script": { "m_FileID": 0, "m_PathID": 4639870697315504682 },
+	"m_Structure": {
+		"animationAsset": { "m_FileID": 0, "m_PathID": -5023534679410152045 },
+		"ShowAnimation": "Appearance",
+		"Charge": "Cheer",
+		"Repair": "Repair",
+		"DigSide": "Dig",
+		"DigDown": "DigDown",
+		"Run": "Run",
+		"SlowRun": "SlowRun",
+		"Fly": "JetPack",
+		"Fall": "FlyDown",
+		"JumpDown": "JumpDown",
+		"CantDigSide": "DontDig",
+		"CantDigDown": "DontDigDown",
+		"Sleep": "SleepIdle",
+		"StartFood": "FoodIsComing",
+		"LoopFood": "EatIdle",
+		"FoodEnd": "FoodEnd",
+		"IdleAnimations": {
+			"NonProbabilityList": 0,
+			"Animations": [
+				{
+					"Name": "Idle",
+					"Probability": 33.3
+				},
+				{
+					"Name": "Emotion_4",
+					"Probability": 0.12
+				},
+				{
+					"Name": "Emition_2",
+					"Probability": 0.12
+				}
+			]
+		},
+		"defaultAnimation": 1,
+		"NameBGSprite": { "m_FileID": 0, "m_PathID": 9158048105677251709 },
+		"CharName": "Characters.1",
+		"sounds": [
+			{
+				"Animation": "Run",
+				"Sound": [
+					"footstep_1",
+					"footstep_2",
+					"footstep_3",
+					"footstep_4"
+				]
+			},
+			{
+				"Animation": "Dig",
+				"Sound": [
+					"ability_electric"
+				]
+			},
+			{
+				"Animation": "DigDown",
+				"Sound": [
+					"ability_electric"
+				]
+			},
+			{
+				"Animation": "JetPack",
+				"Sound": [
+					"fly_board"
+				]
+			},
+			{
+				"Animation": "IdleSlingshot",
+				"Sound": [
+					"rogatka"
+				]
+			},
+			{
+				"Animation": "Repair",
+				"Sound": [
+					"nolik_repair"
+				]
+			}
+		],
+		"customCharacterSounds": [
+			{ "m_FileID": 0, "m_PathID": 6002818158589366496 },
+			{ "m_FileID": 0, "m_PathID": -3802164344014835695 },
+			{ "m_FileID": 0, "m_PathID": -4813743804928553227 },
+			{ "m_FileID": 0, "m_PathID": -5023738741320996514 },
+			{ "m_FileID": 0, "m_PathID": -4314307737988813181 },
+			{ "m_FileID": 0, "m_PathID": 9142478903755872154 },
+			{ "m_FileID": 0, "m_PathID": 7656567043860782333 },
+			{ "m_FileID": 0, "m_PathID": 320363200589504092 },
+			{ "m_FileID": 0, "m_PathID": 5312238303470446171 },
+			{ "m_FileID": 0, "m_PathID": 493914332066756599 },
+			{ "m_FileID": 0, "m_PathID": 5410831459727669214 },
+			{ "m_FileID": 0, "m_PathID": 7243928017458240577 },
+			{ "m_FileID": 0, "m_PathID": -6193443546296383878 }
+		],
+		"Damage": "Hit",
+		"NoReplaceByDamageAnims": [
+			"Dig",
+			"DigDown",
+			"DontDig",
+			"DontDigDown",
+			"SleepIdle",
+			"FoodEnd",
+			"FoodIsComing",
+			"EatIdle",
+			"Cheer"
+		],
+		"ReplaceByDamageAnims": [
+			{
+				"ReplacedAnim": "Emition_2",
+				"ReplaceAnim": "Idle"
+			},
+			{
+				"ReplacedAnim": "Emotion_4",
+				"ReplaceAnim": "Idle"
+			}
+		],
+		"MainMenuHiAnimations": [
+			"Emotion_3"
+		],
+		"MainMenuYPosition": -24,
+		"RightJepPositions": [
+			{
+				"x": -0.033,
+				"y": -0.15
+			},
+			{
+				"x": 0.124,
+				"y": -0.1
+			}
+		],
+		"LeftJepPositions": [
+			{
+				"x": 0.038,
+				"y": -0.15
+			},
+			{
+				"x": -0.139,
+				"y": -0.1
+			}
+		],
+		"AnimatorOffset": {
+			"x": 0,
+			"y": -0.37,
+			"z": 0
+		},
+		"AnimationSpeedEntries": [
+			{
+				"Animation": "SlowRun",
+				"Speed": 1.98
+			}
+		]
+	}
+}

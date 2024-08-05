@@ -1,0 +1,18 @@
+{
+	"m_CorrespondingSourceObject": { "m_FileID": 0, "m_PathID": 0 },
+	"m_EditorClassIdentifier": "",
+	"m_EditorHideFlags": 0,
+	"m_Enabled": 1,
+	"m_GameObject": { "m_FileID": 0, "m_PathID": 0 },
+	"m_HideFlags": 0,
+	"m_Name": "simka1.0_Atlas",
+	"m_PrefabAsset": { "m_FileID": 0, "m_PathID": 0 },
+	"m_PrefabInstance": { "m_FileID": 0, "m_PathID": 0 },
+	"m_Script": { "m_FileID": 0, "m_PathID": 1008803689438726606 },
+	"m_Structure": {
+		"atlasFile": { "m_FileID": 0, "m_PathID": 4330356226946786850 },
+		"materials": [
+			{ "m_FileID": 0, "m_PathID": 3010819415816258321 }
+		]
+	}
+}

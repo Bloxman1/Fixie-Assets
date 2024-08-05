@@ -1,0 +1,159 @@
+{
+	"m_CorrespondingSourceObject": { "m_FileID": 0, "m_PathID": 0 },
+	"m_EditorClassIdentifier": "",
+	"m_EditorHideFlags": 0,
+	"m_Enabled": 1,
+	"m_GameObject": { "m_FileID": 0, "m_PathID": 0 },
+	"m_HideFlags": 0,
+	"m_Name": "Simka",
+	"m_PrefabAsset": { "m_FileID": 0, "m_PathID": 0 },
+	"m_PrefabInstance": { "m_FileID": 0, "m_PathID": 0 },
+	"m_Script": { "m_FileID": 0, "m_PathID": 4639870697315504682 },
+	"m_Structure": {
+		"animationAsset": { "m_FileID": 0, "m_PathID": -50716995512562320 },
+		"ShowAnimation": "Appearance",
+		"Charge": "Cheer",
+		"Repair": "Repair",
+		"DigSide": "Dig",
+		"DigDown": "DigDown",
+		"Run": "Run",
+		"SlowRun": "SlowRun",
+		"Fly": "JetPack",
+		"Fall": "FlyDown",
+		"JumpDown": "JumpDown",
+		"CantDigSide": "DontDig",
+		"CantDigDown": "DontDigDown",
+		"Sleep": "SleepIdle",
+		"StartFood": "FoodIsComing",
+		"LoopFood": "EatIdle",
+		"FoodEnd": "FoodEnd",
+		"IdleAnimations": {
+			"NonProbabilityList": 0,
+			"Animations": [
+				{
+					"Name": "idle",
+					"Probability": 33.3
+				},
+				{
+					"Name": "Emotion_1",
+					"Probability": 0.18
+				},
+				{
+					"Name": "Emotion_3",
+					"Probability": 0.18
+				}
+			]
+		},
+		"defaultAnimation": 0,
+		"NameBGSprite": { "m_FileID": 0, "m_PathID": -6795152690848268377 },
+		"CharName": "Characters.2",
+		"sounds": [
+			{
+				"Animation": "Run",
+				"Sound": [
+					"footstep_1",
+					"footstep_2",
+					"footstep_3",
+					"footstep_4"
+				]
+			},
+			{
+				"Animation": "Dig",
+				"Sound": [
+					"ability_electric"
+				]
+			},
+			{
+				"Animation": "DigDown",
+				"Sound": [
+					"ability_electric"
+				]
+			},
+			{
+				"Animation": "JetPack",
+				"Sound": [
+					"fly_board"
+				]
+			},
+			{
+				"Animation": "Repair",
+				"Sound": [
+					"simka_repair"
+				]
+			}
+		],
+		"customCharacterSounds": [
+			{ "m_FileID": 0, "m_PathID": 4346494651508981865 },
+			{ "m_FileID": 0, "m_PathID": -5400935853524073229 },
+			{ "m_FileID": 0, "m_PathID": -1801664202701721657 },
+			{ "m_FileID": 0, "m_PathID": -6950008216567040517 },
+			{ "m_FileID": 0, "m_PathID": -2132442812665020869 },
+			{ "m_FileID": 0, "m_PathID": 6581732198954884589 },
+			{ "m_FileID": 0, "m_PathID": -1126305284223418989 },
+			{ "m_FileID": 0, "m_PathID": 4271829963177380299 },
+			{ "m_FileID": 0, "m_PathID": 6351235337868927954 },
+			{ "m_FileID": 0, "m_PathID": 8038612372297711946 },
+			{ "m_FileID": 0, "m_PathID": 2474027469752973366 },
+			{ "m_FileID": 0, "m_PathID": 2820928132778305171 },
+			{ "m_FileID": 0, "m_PathID": -6555866952136537605 },
+			{ "m_FileID": 0, "m_PathID": 6837803942527974009 }
+		],
+		"Damage": "Hit",
+		"NoReplaceByDamageAnims": [
+			"Dig",
+			"DigDown",
+			"DontDig",
+			"DontDigDown",
+			"SleepIdle",
+			"EatIdle",
+			"FoodIsComing",
+			"FoodEnd",
+			"Cheer"
+		],
+		"ReplaceByDamageAnims": [
+			{
+				"ReplacedAnim": "Emotion_1",
+				"ReplaceAnim": "idle"
+			},
+			{
+				"ReplacedAnim": "Emotion_3",
+				"ReplaceAnim": "idle"
+			}
+		],
+		"MainMenuHiAnimations": [
+			"Emotion_2"
+		],
+		"MainMenuYPosition": -26.4,
+		"RightJepPositions": [
+			{
+				"x": -0.0751,
+				"y": -0.05
+			},
+			{
+				"x": 0.0768,
+				"y": -0.05
+			}
+		],
+		"LeftJepPositions": [
+			{
+				"x": -0.0751,
+				"y": -0.05
+			},
+			{
+				"x": 0.0768,
+				"y": -0.05
+			}
+		],
+		"AnimatorOffset": {
+			"x": 0,
+			"y": -0.385,
+			"z": 0
+		},
+		"AnimationSpeedEntries": [
+			{
+				"Animation": "SlowRun",
+				"Speed": 1.98
+			}
+		]
+	}
+}
